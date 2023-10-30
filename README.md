@@ -33,3 +33,4 @@ Auteurs :
  - Fabien Rozar
  - Lucas GANGNANT
  - Jérome Paton
+ - Gaël EDMOND
